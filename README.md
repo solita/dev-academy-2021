@@ -1,4 +1,4 @@
-# dev-academy-2021 excercise - Name Application
+# dev-academy-2021 exercise - Name Application
 
 Your task is to implement a name application. The application should have an user interface. The user interface can be either a web application or an api. (It can even contain both if you have enough time and enthusiasm.) 
 
