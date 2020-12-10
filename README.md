@@ -8,7 +8,7 @@ The user interface should provide at least the first of the following requiremen
 3. Return the total amount of all the names
 4. Return the amount of the name given as a parameter
 
-The data for the application is stored in a json file. The material contains the top-10 of both male and female names in Solita. You can use the json file directly as your data source or you can store the data in a database if you wish.
+The data for the application is stored in a json file ([names.json](https://github.com/solita/dev-academy-2020/blob/main/names.json)). The material contains the top-10 of both male and female names in Solita. You can use the json file directly as your data source or you can store the data in a database if you wish.
 
 Technologies which are used in the projects in Solita are, for example, Java, Kotlin, Clojure, TypeScript, C#, React, Angular, Vue.js, and Node.js. You can choose some of this list or use your favorite technologies.
 
