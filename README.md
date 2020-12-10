@@ -3,10 +3,10 @@
 Your task is to implement a name application. The application should have an user interface. The user interface can be either a web application or an api. (It can even contain both if you have enough time and enthusiasm.) 
 
 The user interface should provide at least the first of the following requirements, but again, you’re allowed to implement them all.
-List names and amounts, order by amount, most popular first
-List names in alphabetical order
-Return the total amount of all the names
-Return the amount of the name given as a parameter
+1. List names and amounts, order by amount, most popular first
+2. List names in alphabetical order
+3. Return the total amount of all the names
+4. Return the amount of the name given as a parameter
 
 The data for the application is stored in a json file. The material contains the top-10 of both male and female names in Solita. You can use the json file directly as your data source or you can store the data in a database if you wish.
 
