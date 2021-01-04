@@ -12,6 +12,6 @@ The data for the application is stored in a json file ([names.json](https://gith
 
 Technologies which are used in the projects in Solita are, for example, Java, Kotlin, Clojure, TypeScript, C#, React, Angular, Vue.js, and Node.js. You can choose some of those or use your favorite technologies.
 
-GitHub is a good choice for version control. You can attach the repository link to your dev academy application.
+GitHub is a good choice for version control. You can attach the repository link to your dev academy application. **Be aware that you do not have to fork this repo and repository forking is public information in GitHub**
 
 Be prepared to present your implementation of the name application in the possible interview. We would like to see how the application works and discuss together the technology choices you’ve made.
